@@ -25,3 +25,10 @@
 11. **Experience reading existing code and creating bug fixes.** Based on our findings from Early Project T, sometimes interns worked with existing code that contained bugs or a partial implementation. We give students an implementation of kernelized K-means and ask them to fix the bugs based on their understanding of the research paper (learning objective 10). This skill will likely be helpful for students in an internship-setting.
 
 ### How to Navigate the Repository
+The workflow of a typical student is as follows: 
+1. Look at the [slides] for an overview of K-Means
+2. Open the [folder] and start on [project_part_1] where they will create a working K-Means implemention end-to-end in the context of a real industry situation. If they need any clarifications on the theory or more details, they can reference the [notes] as needed. 
+3. After completing [project part 1], they will move on to [project part 2] where they will explore the bounds and limitations of K-Means and how they can prevent certain issues from arising. 
+4. Once they have finished the coding portion, they will take the [quiz] to check their overall understanding of K-Means.
+5. Students can check their solutions using the notebooks found in [folder]
+
